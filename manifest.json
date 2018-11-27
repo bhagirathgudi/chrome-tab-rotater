@@ -1,0 +1,13 @@
+{
+    "name" : "tab-rotator",
+    "permissions": [
+        "tabs",
+        "alarms"
+    ],
+    "background" : {
+        "persistent" : true,
+        "scripts": ["background.js"]
+    },
+    "manifest_version":2,
+    "version":"1.0" 
+}
